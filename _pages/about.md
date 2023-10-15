@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pagius Tsien 钱沛之"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
