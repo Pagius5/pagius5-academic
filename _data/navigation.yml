@@ -10,7 +10,7 @@ main:
     url: /portfolio/
 
   - title: "Learning"
-    url: /teaching/ 
+    url: /learning/ 
 
   - title: "Blog Posts"
     url: /year-archive/
