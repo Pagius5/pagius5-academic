@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="https://www.google.com/" style="color: rgb(243,176,78);">custom link</a>
 
 ![这是图片](/images/moma.jpg)
 

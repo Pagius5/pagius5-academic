@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Page Tsien's Homepage"
+title                    : "Page Tsien's Homepage                "
 title_separator          : "-"
 name                     : &name "Page Tsien"
 description              : &description "personal description"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "pagius5"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
