@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
+![这是图片](/images/moma.jpg)
+
+
+
 I held a B.Eng. in Biomedical Engineering from Tsinghua University and a M.S. in New Media from the Chinese University of Hong Kong.
 
 My research interests lie broadly at the intersection of Computational Social Science, network science, public health, and HCI.
