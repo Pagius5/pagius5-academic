@@ -1,8 +1,8 @@
 ---
-title: "🎮 A second-hand gaming merchandise trading platform"
+title: "📖 Network Science Guidebook"
 collection: talks
 # type: "talk"
-permalink: /talks/merch
+permalink: /talks/network
 # excerpt: "<img src='/images/pond.png'>"
 # venue: "UC San Francisco, Department of Testing"
 # date: Jan 2023 - Apr 2023

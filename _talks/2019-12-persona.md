@@ -1,5 +1,5 @@
 ---
-title: "Homo Persona"
+title: "🎭 Homo Persona"
 collection: talks
 # type: "talk"
 permalink: /talks/homo_persona
