@@ -4,7 +4,7 @@ collection: talks
 # type: "talk"
 permalink: /talks/homo_persona
 # venue: "UC San Francisco, Department of Testing"
-date: "Dec 2019 - Jun 2020"
+# date: "Dec 2019 - Jun 2020"
 # location: "San Francisco, California"
 ---
 
