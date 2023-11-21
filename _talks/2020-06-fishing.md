@@ -4,7 +4,7 @@ collection: talks
 # type: "talk"
 permalink: /talks/fishing_ban
 # venue: "UC San Francisco, Department of Testing"
-date: Jun 2020 - Mar 2021
+date: "Jun 2020 - Mar 2021"
 # location: "San Francisco, California"
 ---
 
