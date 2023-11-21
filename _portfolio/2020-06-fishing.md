@@ -1,8 +1,9 @@
 ---
 title: "Ten-Year Yangtze Fishing Ban through the Lens"
-collection: talks
+excerpt: "My Photography Works<br/><img src='/images/pond.png' width='500'>"
+collection: portfolio
 # type: "talk"
-permalink: /talks/fishing_ban
+# permalink: /talks/fishing_ban
 # venue: "UC San Francisco, Department of Testing"
 # date: "Jun 2020 - Mar 2021"
 # location: "San Francisco, California"

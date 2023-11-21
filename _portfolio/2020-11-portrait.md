@@ -1,8 +1,8 @@
 ---
 title: "The Revelation of Portrait"
-collection: talks
-# type: "talk"
-permalink: /talks/portrait
+excerpt: "My Photography Works<br/><img src='/images/pond.png' width='500'>"
+collection: portfolio# type: "talk"
+# permalink: /talks/portrait
 # venue: "UC San Francisco, Department of Testing"
 # date: Nov 2020 - Apr 2021
 # location: "San Francisco, California"
