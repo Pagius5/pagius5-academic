@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align=center><img src="/images/De_Chirico&apos;s_Love_Song.jpg" width="400"></div>
+<!-- <div align=center><img src="/images/De_Chirico&apos;s_Love_Song.jpg" width="400"></div> -->
 
 I held a B.Eng. in Biomedical Engineering from Tsinghua University and a M.S. in New Media from the Chinese University of Hong Kong.
 
