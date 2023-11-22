@@ -9,8 +9,8 @@ main:
   - title: "Creative Works"
     url: /portfolio/
 
-  - title: "Learning"
-    url: /learning/ 
+  # - title: "Learning"
+  #   url: /learning/ 
 
   # - title: "Blog Posts"
   #   url: /year-archive/
