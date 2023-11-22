@@ -1,7 +1,8 @@
 ---
 title: "The Revelation of Portrait"
 excerpt: "My Photography Works<br/><img src='/images/portrait-1.jpg' width='800'>"
-collection: portfolio# type: "talk"
+collection: portfolio
+# type: "talk"
 # permalink: /talks/portrait
 # venue: "UC San Francisco, Department of Testing"
 # date: Nov 2020 - Apr 2021
