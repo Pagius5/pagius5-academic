@@ -1,6 +1,6 @@
 ---
-title: "Ten-Year Yangtze Fishing Ban through the Lens"
-excerpt: "My Photography Works<br/><img src='/images/pond.png' width='500'>"
+title: "Seeing is Unreal"
+excerpt: "An exhibition<br/><img src='/images/pond.png' width='500'>"
 collection: portfolio
 # type: "talk"
 # permalink: /talks/fishing_ban

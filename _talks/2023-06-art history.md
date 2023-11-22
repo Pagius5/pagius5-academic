@@ -1,8 +1,8 @@
 ---
-title: "📖 Network Science Guidebook"
+title: "🏛️⚾ Dissecting Landscape Art History With Information Theory"
 collection: talks
 # type: "talk"
-permalink: /talks/network
+permalink: /talks/art_history
 # excerpt: "<img src='/images/pond.png'>"
 # venue: "UC San Francisco, Department of Testing"
 # date: Jan 2023 - Apr 2023
