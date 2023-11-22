@@ -1,6 +1,6 @@
 ---
 title: "The Revelation of Portrait"
-excerpt: "My Photography Works<br/><img src='/images/pond.png' width='500'>"
+excerpt: "My Photography Works<br/><img src='/images/portrait-1.jpg' width='800'>"
 collection: portfolio# type: "talk"
 # permalink: /talks/portrait
 # venue: "UC San Francisco, Department of Testing"
@@ -12,6 +12,7 @@ Touched on the intrusion of camera on portrait rights
 
 Heading 1
 ======
+https://mp.weixin.qq.com/s/KJ5wN2-U-VUah0PVVCi1_w
 
 Heading 2
 ======

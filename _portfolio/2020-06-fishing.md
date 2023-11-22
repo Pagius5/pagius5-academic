@@ -1,6 +1,6 @@
 ---
 title: "Ten-Year Yangtze Fishing Ban through the Lens"
-excerpt: "My Photography Works<br/><img src='/images/pond.png' width='500'>"
+excerpt: "My Photography Works<br/><img src='/images/Yangtze-1.jpg' width='800'>"
 collection: portfolio
 # type: "talk"
 # permalink: /talks/fishing_ban
@@ -13,6 +13,7 @@ Adopted “Along the River” as the photography philosophy, drew inspiration fr
 
 Heading 1
 ======
+https://mp.weixin.qq.com/s/2T_nyZ2IWhDPCG1SulAd1Q
 
 Heading 2
 ======

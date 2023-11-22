@@ -1,5 +1,5 @@
 ---
-title: "🏛️⚾ Dissecting Landscape Art History With Information Theory"
+title: "🏛️ Dissecting Landscape Art History With Information Theory"
 collection: talks
 # type: "talk"
 permalink: /talks/art_history

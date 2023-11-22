@@ -1,6 +1,6 @@
 ---
 title: "Seeing is Unreal"
-excerpt: "An exhibition<br/><img src='/images/pond.png' width='500'>"
+excerpt: "An exhibition<br/><img src='/images/exhibition-1.png' width='800'>"
 collection: portfolio
 # type: "talk"
 # permalink: /talks/fishing_ban
@@ -13,6 +13,8 @@ Adopted “Along the River” as the photography philosophy, drew inspiration fr
 
 Heading 1
 ======
+https://mp.weixin.qq.com/s/rCO_DJKXEgVSV2pny_h6JQ
+https://mp.weixin.qq.com/s/KbPny6cLSr3P562dhrb-VA
 
 Heading 2
 ======
